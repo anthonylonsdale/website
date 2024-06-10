@@ -34,6 +34,8 @@
 .layout-header {
   background: white;
   border-bottom: 4px solid #B62326;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .custom-menu-item {
