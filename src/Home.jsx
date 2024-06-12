@@ -19,21 +19,21 @@ const Home = () => {
           <Col xs={24} sm={12} md={8}>
             <a href={eigelSign18x24} download="Eigel_Yard_Sign_18x24.png">
               <Card hoverable>
-                <Card.Meta title="Eigel Yard Sign 18x24" />
+                <Card.Meta title="Eigel Yard Sign 18x24" description="Click to download the Image."/>
               </Card>
             </a>
           </Col>
           <Col xs={24} sm={12} md={8}>
             <a href={eigelSign48x72} download="Eigel_Yard_Sign_48x72.png">
               <Card hoverable>
-                <Card.Meta title="Eigel Yard Sign 48x72" />
+                <Card.Meta title="Eigel Yard Sign 48x72" description="Click to download the Image."/>
               </Card>
             </a>
           </Col>
           <Col xs={24} sm={12} md={8}>
             <a href={eigelSign48x96} download="Eigel_Yard_Sign_48x96.png">
               <Card hoverable>
-                <Card.Meta title="Eigel Yard Sign 48x96" />
+                <Card.Meta title="Eigel Yard Sign 48x96" description="Click to download the Image."/>
               </Card>
             </a>
           </Col>
@@ -42,11 +42,16 @@ const Home = () => {
 
       <div style={{ marginTop: '30px' }}>
         <h2>PDF Downloads</h2>
-        <a href={palmCardPDF} download="Eigel_Palm_Card.pdf">
-          <Card hoverable>
-            <Card.Meta title="Download Eigel Palm Card" description="Click to download the PDF." />
-          </Card>
-        </a>
+        <Row gutter={[16, 16]}>
+            <Col xs={24} sm={12} md={8}>
+                <a href={palmCardPDF} download="Eigel_Palm_Card.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel Palm Card" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+        </Row>
+        
       </div>
 
       <div style={{ marginTop: '30px' }}>
