@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03aaa0eb.css",
-    "main.js": "/static/js/main.0a0e7386.js",
+    "main.js": "/static/js/main.4ce95f68.js",
     "static/js/453.bb828c5d.chunk.js": "/static/js/453.bb828c5d.chunk.js",
     "static/media/Eigel Formatted Kehoe Attack.mp4": "/static/media/Eigel Formatted Kehoe Attack.4ee6c9e31017afa5903f.mp4",
     "static/media/Eigel for Governor Yard Sign 48x96-1.png": "/static/media/Eigel for Governor Yard Sign 48x96-1.772aec7095c9ca601179.png",
@@ -11,13 +11,19 @@
     "static/media/Eigel_4x9_PalmCard_APRIL2024_lowres.pdf": "/static/media/Eigel_4x9_PalmCard_APRIL2024_lowres.109cbc0b0f035532c8e1.pdf",
     "static/media/eigel deport billboard b.pdf": "/static/media/eigel deport billboard b.11971db28016af6774fe.pdf",
     "static/media/eigel prop tax billboard b.pdf": "/static/media/eigel prop tax billboard b.c4a12b7cd1a1cebea6a2.pdf",
+    "static/media/Eigel for Governor Sign 4x8-property tax.pdf": "/static/media/Eigel for Governor Sign 4x8-property tax.bfa9f007a46595170289.pdf",
+    "static/media/Eigel for Governor Sign 4x8-deport illegals.pdf": "/static/media/Eigel for Governor Sign 4x8-deport illegals.9fa97163d8838a074357.pdf",
+    "static/media/Eigel for Governor Yard Sign 16x26-property tax.pdf": "/static/media/Eigel for Governor Yard Sign 16x26-property tax.646d6e7016f40deb2dfa.pdf",
+    "static/media/Eigel for Governor Yard Sign 16x26-depor illegals.pdf": "/static/media/Eigel for Governor Yard Sign 16x26-depor illegals.f5f47622b8a09d78546d.pdf",
+    "static/media/Eigel for Governor Sign 4x8 (1).pdf": "/static/media/Eigel for Governor Sign 4x8 (1).818faaffc02e3fa76ba3.pdf",
+    "static/media/Eigel for Governor Yard Sign 16x26 (1).pdf": "/static/media/Eigel for Governor Yard Sign 16x26 (1).4014286272d4db022868.pdf",
     "index.html": "/index.html",
     "main.03aaa0eb.css.map": "/static/css/main.03aaa0eb.css.map",
-    "main.0a0e7386.js.map": "/static/js/main.0a0e7386.js.map",
+    "main.4ce95f68.js.map": "/static/js/main.4ce95f68.js.map",
     "453.bb828c5d.chunk.js.map": "/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03aaa0eb.css",
-    "static/js/main.0a0e7386.js"
+    "static/js/main.4ce95f68.js"
   ]
 }
