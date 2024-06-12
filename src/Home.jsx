@@ -6,6 +6,12 @@ import eigelSign48x96 from './images/Eigel for Governor Yard Sign 48x96-1.png';
 import palmCardPDF from './images/Eigel_4x9_PalmCard_APRIL2024_lowres.pdf';
 import billboarda from './images/eigel prop tax billboard b.pdf'
 import billboardb from './images/eigel deport billboard b.pdf'
+import proofa from './images/Eigel for Governor Sign 4x8 (1).pdf'
+import proofb from './images/Eigel for Governor Sign 4x8-deport illegals.pdf'
+import proofc from './images/Eigel for Governor Sign 4x8-property tax.pdf'
+import proofd from './images/Eigel for Governor Yard Sign 16x26 (1).pdf'
+import proofe from './images/Eigel for Governor Yard Sign 16x26-depor illegals.pdf'
+import prooff from './images/Eigel for Governor Yard Sign 16x26-property tax.pdf'
 
 const { Title } = Typography;
 
@@ -46,6 +52,52 @@ const Home = () => {
         <h2>PDF Downloads</h2>
         <Row gutter={[16, 16]}>
             <Col xs={24} sm={12} md={8}>
+                <a href={proofa} download="Eigel for Governor Sign 4x8.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 4x8" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+            <Col xs={24} sm={12} md={8}>
+                <a href={proofb} download="Eigel for Governor Sign 4x8-deport-illegals.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 4x8 Deport Illegals" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+            <Col xs={24} sm={12} md={8}>
+                <a href={proofc} download="Eigel for Governor Sign 4x8-property-tax.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 4x8 Property Tax" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+        </Row>
+        <Row gutter={[16, 16]}>
+            <Col xs={24} sm={12} md={8}>
+                <a href={proofd} download="Eigel for Governor Yard Sign 16x26.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 16x26" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+            <Col xs={24} sm={12} md={8}>
+                <a href={proofe} download="Eigel for Governor Yard Sign 16x26-deport-illegals.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 16x26 Deport Illegals" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+            <Col xs={24} sm={12} md={8}>
+                <a href={prooff} download="Eigel for Governor Yard Sign 16x26-property-tax.pdf">
+                    <Card hoverable>
+                        <Card.Meta title="Download Eigel 16x26 Property Tax" description="Click to download the PDF." />
+                    </Card>
+                </a>
+            </Col>
+        </Row>
+        <Row gutter={[16, 16]}>
+            <Col xs={24} sm={12} md={8}>
                 <a href={palmCardPDF} download="Eigel_Palm_Card.pdf">
                     <Card hoverable>
                         <Card.Meta title="Download Eigel Palm Card" description="Click to download the PDF." />
@@ -53,7 +105,6 @@ const Home = () => {
                 </a>
             </Col>
         </Row>
-        
       </div>
 
       <div style={{ marginTop: '30px' }}>
