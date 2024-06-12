@@ -4,6 +4,8 @@ import eigelSign18x24 from './images/Eigel for Governor Yard Sign 18x24-1.png';
 import eigelSign48x72 from './images/Eigel for Governor Yard Sign 48x72-1.png';
 import eigelSign48x96 from './images/Eigel for Governor Yard Sign 48x96-1.png';
 import palmCardPDF from './images/Eigel_4x9_PalmCard_APRIL2024_lowres.pdf';
+import billboarda from './images/eigel prop tax billboard b.pdf'
+import billboardb from './images/eigel deport billboard b.pdf'
 
 const { Title } = Typography;
 
@@ -58,14 +60,14 @@ const Home = () => {
         <h2>Billboard Designs</h2>
         <Row gutter={[16, 16]}>
           <Col xs={24} sm={12} md={8}>
-            <a href="./path/to/eigel_prop_tax_billboard_b.pdf" download="Eigel_Prop_Tax_Billboard.pdf">
+            <a href={billboarda} download="Eigel_Prop_Tax_Billboard.pdf">
               <Card hoverable>
                 <Card.Meta title="Eigel Prop Tax Billboard" description="Click to download the PDF." />
               </Card>
             </a>
           </Col>
           <Col xs={24} sm={12} md={8}>
-            <a href="./path/to/eigel_deport_billboard_b.pdf" download="Eigel_Deport_Billboard.pdf">
+            <a href={billboardb} download="Eigel_Deport_Billboard.pdf">
               <Card hoverable>
                 <Card.Meta title="Eigel Deport Billboard" description="Click to download the PDF." />
               </Card>
