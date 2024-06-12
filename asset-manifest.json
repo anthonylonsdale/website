@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03aaa0eb.css",
-    "main.js": "/static/js/main.b5485ffb.js",
+    "main.js": "/static/js/main.0a0e7386.js",
     "static/js/453.bb828c5d.chunk.js": "/static/js/453.bb828c5d.chunk.js",
     "static/media/Eigel Formatted Kehoe Attack.mp4": "/static/media/Eigel Formatted Kehoe Attack.4ee6c9e31017afa5903f.mp4",
     "static/media/Eigel for Governor Yard Sign 48x96-1.png": "/static/media/Eigel for Governor Yard Sign 48x96-1.772aec7095c9ca601179.png",
@@ -9,13 +9,15 @@
     "static/media/Eigel for Governor Yard Sign 48x72-1.png": "/static/media/Eigel for Governor Yard Sign 48x72-1.28e9a62de9ff1feadd77.png",
     "static/media/Eigel for Governor Yard Sign 18x24-1.png": "/static/media/Eigel for Governor Yard Sign 18x24-1.125c85ae6f071cd6028c.png",
     "static/media/Eigel_4x9_PalmCard_APRIL2024_lowres.pdf": "/static/media/Eigel_4x9_PalmCard_APRIL2024_lowres.109cbc0b0f035532c8e1.pdf",
+    "static/media/eigel deport billboard b.pdf": "/static/media/eigel deport billboard b.11971db28016af6774fe.pdf",
+    "static/media/eigel prop tax billboard b.pdf": "/static/media/eigel prop tax billboard b.c4a12b7cd1a1cebea6a2.pdf",
     "index.html": "/index.html",
     "main.03aaa0eb.css.map": "/static/css/main.03aaa0eb.css.map",
-    "main.b5485ffb.js.map": "/static/js/main.b5485ffb.js.map",
+    "main.0a0e7386.js.map": "/static/js/main.0a0e7386.js.map",
     "453.bb828c5d.chunk.js.map": "/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03aaa0eb.css",
-    "static/js/main.b5485ffb.js"
+    "static/js/main.0a0e7386.js"
   ]
 }
