@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=/" />
+  <script type="text/javascript">
+    // Capture the current path
+    var pathname = window.location.pathname;
+    var search = window.location.search;
+    var hash = window.location.hash;
+
+    // Redirect to the main index file with the original path as a query parameter
+    window.location.href = '/' + '?' + 'pathname=' + pathname + search + hash;
+  </script>
+</head>
+<body>
+  <h1>Redirecting...</h1>
+</body>
+</html>
