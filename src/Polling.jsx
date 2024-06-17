@@ -28,14 +28,14 @@ const Polling = () => {
           <Col xs={12} sm={8} md={6}>
             <a href={sep2023tline} download="sep2023MIG-Topline.pdf">
               <Card hoverable>
-                <Card.Meta title="09-2023 Toplines" description="September Moore Info - Topline" />
+                <Card.Meta title="09-2023 Toplines" description="September Peak Insights - Topline" />
               </Card>
             </a>
           </Col>
           <Col xs={12} sm={8} md={6}>
             <a href={sep2023ctabs} download="sep2023MIG-CrossTabs.pdf">
               <Card hoverable>
-                <Card.Meta title="09-2023 Crosstabs" description="September Moore Info - Crosstabs" />
+                <Card.Meta title="09-2023 Crosstabs" description="September Peak Insights - Crosstabs" />
               </Card>
             </a>
           </Col>
@@ -62,14 +62,14 @@ const Polling = () => {
           <Col xs={12} sm={8} md={6}>
             <a href={may2024tline} download="may2024MIG-Topline.pdf">
               <Card hoverable>
-                <Card.Meta title="05-2024 Topline" description="May MIG - Topline" />
+                <Card.Meta title="05-2024 Topline" description="May Peak Insights - Topline" />
               </Card>
             </a>
           </Col>
           <Col xs={12} sm={8} md={6}>
             <a href={may2024ctabs} download="may2024MIG-CrossTabs.pdf">
               <Card hoverable>
-                <Card.Meta title="05-2024 Crosstabs" description="May MIG - Crosstabs" />
+                <Card.Meta title="05-2024 Crosstabs" description="May Peak Insights - Crosstabs" />
               </Card>
             </a>
           </Col>
