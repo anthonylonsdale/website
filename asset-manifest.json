@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/operationmmga.com/static/css/main.03aaa0eb.css",
-    "main.js": "/operationmmga.com/static/js/main.ac121091.js",
+    "main.js": "/operationmmga.com/static/js/main.73a8c3a8.js",
     "static/js/453.bb828c5d.chunk.js": "/operationmmga.com/static/js/453.bb828c5d.chunk.js",
     "static/media/Eigel Formatted Kehoe Attack.mp4": "/operationmmga.com/static/media/Eigel Formatted Kehoe Attack.4ee6c9e31017afa5903f.mp4",
     "static/media/Eigel Video.mp4": "/operationmmga.com/static/media/Eigel Video.38368b8e7de5c54869e0.mp4",
@@ -29,11 +29,11 @@
     "static/media/TOPLINE-MO GOP Voters Sept 2023[67].pdf": "/operationmmga.com/static/media/TOPLINE-MO GOP Voters Sept 2023[67].339ae8e04a861761bd5c.pdf",
     "index.html": "/operationmmga.com/index.html",
     "main.03aaa0eb.css.map": "/operationmmga.com/static/css/main.03aaa0eb.css.map",
-    "main.ac121091.js.map": "/operationmmga.com/static/js/main.ac121091.js.map",
+    "main.73a8c3a8.js.map": "/operationmmga.com/static/js/main.73a8c3a8.js.map",
     "453.bb828c5d.chunk.js.map": "/operationmmga.com/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03aaa0eb.css",
-    "static/js/main.ac121091.js"
+    "static/js/main.73a8c3a8.js"
   ]
 }
