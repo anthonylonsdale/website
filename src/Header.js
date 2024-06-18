@@ -15,9 +15,11 @@ const Header = () => {
         <Menu.Item key="footage">
           <Link to="/footage">Footage</Link>
         </Menu.Item>
+        {/*
         <Menu.Item key="polling">
           <Link to="/polling">Polling</Link>
         </Menu.Item>
+        */}
       </Menu>
     </header>
   );
